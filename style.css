@@ -1,0 +1,34 @@
+#rag{
+    color: navy;
+}
+#sin{
+    color: peru;
+}
+.n{
+    color: red;
+}
+.a{
+    color: green;
+}
+.v{
+    color:khaki;
+}
+.e{
+    color: rgb(198, 243, 16);
+}
+h1{
+    background-color: darkcyan;
+    text-align: center;
+}
+ins{
+    color: yellowgreen;
+    background-color: brown;
+}
+mark{
+    color: white;
+    background-color: orangered;
+}
+#email{
+    color:white;
+    background-color: cornflowerblue;
+}
